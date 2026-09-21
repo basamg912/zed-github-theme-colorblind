@@ -1,0 +1,73 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1789953364601,
+  "projectRoot": "/Users/basamg/work/Personal/zed-theme",
+  "techStack": {
+    "languages": [],
+    "frameworks": [],
+    "packageManager": null,
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [],
+    "gitBranches": null
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "vimrc": {
+      "path": "vimrc",
+      "purpose": null,
+      "fileCount": 7,
+      "lastAccessed": 1789953364578,
+      "keyFiles": [
+        "LICENSE",
+        "README.md",
+        "install_awesome_parameterized.sh",
+        "install_awesome_vimrc.sh",
+        "install_basic_vimrc.sh"
+      ]
+    }
+  },
+  "hotPaths": [
+    {
+      "path": "vimrc/install_awesome_vimrc.sh",
+      "accessCount": 1,
+      "lastAccessed": 1789953425858,
+      "type": "file"
+    },
+    {
+      "path": "vimrc/vimrcs/basic.vim",
+      "accessCount": 1,
+      "lastAccessed": 1789953474828,
+      "type": "file"
+    },
+    {
+      "path": "vimrc/vimrcs/extended.vim",
+      "accessCount": 1,
+      "lastAccessed": 1789953475300,
+      "type": "file"
+    },
+    {
+      "path": "vimrc/my_configs.vim",
+      "accessCount": 1,
+      "lastAccessed": 1789953708805,
+      "type": "file"
+    }
+  ],
+  "userDirectives": []
+}
